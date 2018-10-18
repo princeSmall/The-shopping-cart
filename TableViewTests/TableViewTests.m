@@ -2,8 +2,8 @@
 //  TableViewTests.m
 //  TableViewTests
 //
-//  Created by tongle on 2017/5/4.
-//  Copyright © 2017年 tongle. All rights reserved.
+//  Created by iOS on 2017/5/4.
+//  Copyright © 2017年 iOS. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
